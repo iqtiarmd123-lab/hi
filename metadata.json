@@ -1,0 +1,7 @@
+{
+  "name": "Mobile Virtual OS",
+  "description": "Virtual Machine emulator to configure, manage, and boot ISO operating systems locally on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
